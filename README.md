@@ -23,3 +23,11 @@ The design specifications for the MechaCar suspensions coils dictate that the va
 
 ### Interpretation
 As we can see, after conducting a T-test comparing all manufacturing lots, we can see that the p-value(.06) is greater than the significane level(.05). Due to this fact, the means of the sample and the population are statistically similar. Looking at the different cases between the lots, we can see that lot 3's p-value(.04) is  less than the significance level(.05). This statistically proves that the means of lot 3 and the population are statistically DIFFERENT. This concludes that lot 3 is not a good representation of the population
+
+
+## Study: Comparing the MechaCar to the Competition
+To do a study to compare the performance the MechaCar and its competitors, we will use inferential statistic prrocesses(such as the ttest) to determine the differences on certain desirable factors.
+1. Desirable metrics to be compared in this study could be safety, fuel efficiency, and durability.
+2. The null hypothesis would to be: There is no statistical difference between MechaCar and the selected competitor based on the desirable metric we choose to look at.
+3. A unpaired two-sample T-test can be used to determine whether there is a statistical difference in samples means between MechaCar and its competitor. This can help show how well the prototype car can compete with other established cars
+4. We would need a significant amount of data, enough to acurately produce statistical tests such as the T-tests. This data would contain information on all the desirable metrics. All the data we would be looking at would be quantiative (EX: horse-power, cost, safety rating). 
